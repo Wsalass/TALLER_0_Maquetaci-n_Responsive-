@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Marcellus&family=Roboto:ital,wght@0,100;
-0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url(https://fonts.gstatic.com/s/marcellus/v13/wEO_EBrOk8hQLDvIAF81WPoK7Es.woff2);
 
 :root {--azulclaro: #48D6ED; 
     --azuloscuro: #337AB7; 
@@ -7,7 +6,7 @@
     --negro: #333333; 
     --negro2: #000; 
     --gris: #B2B3B3; 
-    --fondo: #FFFEFC; 
+    --fondo: #FFFEFC;
     --verdeazul: #157A8A; 
     --Magenta: #9C2759; 
     --blanco: #fff; 
